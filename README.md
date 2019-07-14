@@ -15,7 +15,7 @@
 1 . Clone this repo to anywhere on your computer.
 
 ```bash
-git clone https://github.com/jesperorb/json-server-heroku.git
+git clone https://github.com/bcncodes-training/json-server-heroku.git
 ```
 
 2 . Change `db.json` to **your own content** according to the [`json-server example`](https://github.com/typicode/json-server#example) and then `commit` your changes to git. 
